@@ -63,7 +63,7 @@ Currently working at **SaaSJet**, where I help build B2B tools and Jira apps for
 ## 📫 Get in Touch
 
 - ✉️ Email: [gnikolaj2810@gmail.com](mailto:gnikolaj2810@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](#)  
+- 💼 LinkedIn: https://www.linkedin.com/in/gnikolaj/
 - 🔗 Portfolio/Website: [Coming soon or add link]
 
 ---
