@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate JavaScript developer with **2+ years of experience** building dynamic and responsive web applications. My main focus is on React and Node.js development, with production experience in AWS, RESTful APIs, and building custom Jira integrations. I enjoy writing clean, maintainable code and working closely with designers, QAs, and PMs in Agile teams to deliver real value.
+I'm a passionate JavaScript developer with **3+ years of experience** building dynamic and responsive web applications. My main focus is on React and Node.js development, with production experience in AWS, RESTful APIs, and building custom Jira integrations. I enjoy writing clean, maintainable code and working closely with designers, QAs, and PMs in Agile teams to deliver real value.
 
 Currently working at **SaaSJet**, where I help build B2B tools and Jira apps for enterprise clients.
 
